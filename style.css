@@ -67,7 +67,9 @@ body {
 .right-side::-webkit-scrollbar {
   display: none;
 }
-
+#skills::-webkit-scrollbar {
+    display: none;
+}
 li a{
     color:var(--text-color);
 }
